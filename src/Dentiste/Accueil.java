@@ -134,6 +134,7 @@ public class Accueil extends JFrame {
         
     }
 
+    system.out.println("test")
     public static void main(String[] args) { 
     	Accueil frame = new Accueil();
     	
