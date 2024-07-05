@@ -1,4 +1,6 @@
-package compa;
+
+
+import compa.App;
 
 public class AppTest
 {
